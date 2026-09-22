@@ -30,6 +30,9 @@ public class Days {
         else if (rem == 6){
             System.out.println("Monday");
         }
+        else {
+            System.out.println("Wrong");
+        }
 
 
 
